@@ -32,11 +32,10 @@ Atividade | Data Início | Data Fim | ToDo
 ----------|-------------|----------|------
 Configuração do ambiente e estruturação de pastas do projeto| 18-11-2023 | 18-11-2023 | <ul><li>- [x] </li>
 ETL | 19-11-2023 | 19-11-2023|  <ul><li>- [ ] </li>
-Análise exploratória dos dados|-|- | <ul><li>- [ ] </li>
-Análise descritiva dos dados|-|-|<ul><li>- [ ] </li> 
-Pesquisa complementar|-|-|<ul><li>- [ ] </li> 
-Insights e próximos passos|-|-|<ul><li>- [ ] </li> 
-Refinamento do projeto|-|-|<ul><li>- [ ] </li> 
+Análise exploratória dos dados|20-112023|26-11-2023 | <ul><li>- [ ] </li>
+Análise descritiva dos dados|27-11-2023| 03-12-2023|<ul><li>- [ ] </li> 
+Insights e próximos passos|04-12-2023 -|10-12-2023 |<ul><li>- [ ] </li> 
+Refinamento do projeto|11-12-2023-|17-12-2023|<ul><li>- [ ] </li> 
 
 
 ## 📁 Estrutura do repositório do projeto
