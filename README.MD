@@ -24,8 +24,7 @@ Acesse o portal de dados abertos do Banco Central do Brasil para fazer o [downlo
 - Numpy
 - Matplotlib
 - Seaborn
-### Ferramentas
-- BigQuery para armazenar os dados
+
 
 ## ⏰ Cronograma do projeto
 
@@ -41,7 +40,7 @@ Refinamento do projeto|-|-|<input type="checkbox" disabled />
 
 
 ## 📁 Estrutura do repositório do projeto
-O repositório do projeto está estruturado em pastas de forma a modularizar os scripts
+O repositório do projeto está estruturado em diferentes repositórios (pastas) de forma a trazer mais organização e facilitar a reusabilidade e manutenção do código.
 
 - <b>\assets:</b> armazena os arquivos e imagens para compor o projeto
 - <b>\.venv:</b> armazena os arquivos padrão gerados a partir da criação do ambiente virtual
