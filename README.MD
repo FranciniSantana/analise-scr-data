@@ -31,13 +31,13 @@ Acesse o portal de dados abertos do Banco Central do Brasil para fazer o [downlo
 
 Atividade | Data Início | Data Fim | ToDo
 ----------|-------------|----------|------
-Configuração do ambiente e estruturação de pastas do projeto| 18-11-2023 | 18-11-2023 | [x]
-ETL | 19-11-2023 | 19-11-2023| []
-Análise exploratória dos dados|-|- |[]
-Análise descritiva dos dados|-|-|[]
-Pesquisa complementar|-|-|[]
-Insights e próximos passos|-|-|[]
-Refinamento do projeto|-|-|[]
+Configuração do ambiente e estruturação de pastas do projeto| 18-11-2023 | 18-11-2023 | <input type="checkbox" disabled checked />
+ETL | 19-11-2023 | 19-11-2023|  <input type="checkbox" disabled />
+Análise exploratória dos dados|-|- | <input type="checkbox" disabled />
+Análise descritiva dos dados|-|-|<input type="checkbox" disabled /> 
+Pesquisa complementar|-|-|<input type="checkbox" disabled /> 
+Insights e próximos passos|-|-|<input type="checkbox" disabled /> 
+Refinamento do projeto|-|-|<input type="checkbox" disabled /> 
 
 
 ## 📁 Estrutura do repositório do projeto
@@ -48,7 +48,7 @@ O repositório do projeto está estruturado em pastas de forma a modularizar os 
 - <b> \etl:</b> pasta para armazenar os scripts de ETL, onde cada um dos arquivos representa uma etapa (E: Extraction, T: Tranform, L: Load)
 - <b>\notebooks:</b> pasta que armazena os arquivos em jupyter notebook com as análises
 - <b>.gitignore:</b> arquivo com extensão git que informa quais os documentos não deverão ser enviados ao github
-- <b>READ.MD</b> arquivo com extensão de markdown para descrever o projeto
+- <b>README.MD</b> arquivo com extensão de markdown para descrever o projeto
 
 
 ## 💡Insights
