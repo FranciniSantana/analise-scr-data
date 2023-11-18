@@ -30,7 +30,7 @@ Acesse o portal de dados abertos do Banco Central do Brasil para fazer o [downlo
 
 Atividade | Data Início | Data Fim | ToDo
 ----------|-------------|----------|------
-Configuração do ambiente e estruturação de pastas do projeto| 18-11-2023 | 18-11-2023 | <input type="checkbox" disabled checked />
+Configuração do ambiente e estruturação de pastas do projeto| 18-11-2023 | 18-11-2023 | <ul><li>- [x] completed</li>
 ETL | 19-11-2023 | 19-11-2023|  <input type="checkbox" disabled />
 Análise exploratória dos dados|-|- | <input type="checkbox" disabled />
 Análise descritiva dos dados|-|-|<input type="checkbox" disabled /> 
